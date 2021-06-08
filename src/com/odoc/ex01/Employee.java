@@ -1,4 +1,4 @@
-package com.odoc.ex1;
+package com.odoc.ex01;
 
 public class Employee {
 	
